@@ -1,0 +1,168 @@
+#leadboard, iframe, #tripit_tips, #ads, #topline_cta, .fRt.txtAgnRgt.fntS._test_header_box {
+    display: none;
+}
+
+.tripit_icon {
+    margin: 5px 0 0 0;
+}
+
+.header_menu {
+    margin-bottom: 5px;
+}
+
+.tabs.flashesOnReady {
+    margin-bottom: 5px;
+}
+
+#trip_content {
+    float: none;
+    width: 960px;
+}
+
+#trip_item_list {
+    float: none;
+    width: 100%;
+}
+
+#trip_item_list .trip_item, .booking_cta {
+    margin-top: 0px;
+}
+
+.air_segment_status.hide_on_print {
+    margin-top: 0px;
+    display: none;
+}
+
+.flst.flst_main_sgmt_det_ong {
+    display: none;
+}
+
+.trip_item_wrapper, .program_summary_content {
+    background: #DAE0E0;
+    border-bottom: 1px solid rgba(0,0,0,.08);
+}
+
+.trip_item .details {
+    background-color: #ECF0F1;
+    width: 790px;
+}
+
+.arrow_separator .content {
+    background: none;
+    box-shadow: none;
+}
+
+.arrow_separator .content .edge {
+    display: none;
+}
+
+.arrow_separator .content .body {
+    background: none;
+    padding-left: 10px;
+    text-shadow: 0 1px 1px rgba(255,255,255,.2);
+}
+
+.trip_item_gap .arrow_separator, .date_header.add_plans {
+    background: #CACFCF;
+    margin-top: 0;
+    border-bottom: 1px solid rgba(0,0,0,.08);
+}
+
+.date_header.add_plans .arrow_separator .content a, .trip_item_gap .arrow_separator h2 {
+    font-weight: bold;
+    color: #2C3E50;
+}
+
+.arrow_separator .content .tip {
+    display: none;
+}
+
+.arrow_separator .content a {
+    color: #2980B9;
+}
+
+#trip_header .arrow_separator .content .body {
+    padding-left: 5px;
+}
+
+#trip_navigation {
+    border-bottom: none;
+    background: none;
+    padding-left: 10px;
+}
+
+#trip_navigation li {
+    width: auto;
+    border-right: none;
+    margin-right: 20px;
+    margin-left: 0px;
+}
+
+#trip_navigation li:last-child {
+    border-right: none;
+}
+
+#trip_header {
+    background: #fff;
+    border-bottom: none;
+}
+
+.trip_item .date_header {
+    width: 960px;
+}
+
+#layout, #flush_layout, #tripit_content_footer, #header_wrapper {
+    border: none;
+    background: none;
+}
+
+#sidebar_layout {
+    border: none;
+}
+
+#sidebar_layout_wrapper {
+    width: 960px;
+}
+
+#header_wrapper {
+    background: #E3F1FB;
+    width: 100%;
+    border-bottom: 1px solid rgba(0,0,0,.08);
+}
+
+#header_wrapper > div {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.tabs em, .tabs a {
+    padding: 8px 14px;
+    font-size: 14px;
+    float: left;
+}
+
+.tabs .selected em, .tabs .selected a {
+    border: none;
+    background: none;
+    font-weight: bold;
+}
+
+.tabs em:hover, .tabs a:hover {
+    border: none;
+    background: none;
+    text-decoration: underline;
+}
+
+.trip_item_gap {
+    margin-top: 0;
+    background: #ECF0F1;
+}
+
+.trip_item_gap ol li {
+    margin: 0;
+    border: none;
+    background: none;
+    padding: 10px;
+    margin-right: 20px;
+}
+
